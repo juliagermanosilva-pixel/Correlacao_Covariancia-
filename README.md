@@ -1,5 +1,5 @@
-Análise de Dados Estatísticos com NumPy e Pandas
-Este notebook Jupyter explora conceitos fundamentais de estatística descritiva e relações entre variáveis utilizando as bibliotecas NumPy, Pandas, Matplotlib e Seaborn.
+📊 Análise de Dados Estatísticos com NumPy e Pandas 📈
+Bem-vindo(a) a este notebook! Ele serve como um guia prático para explorar conceitos fundamentais de estatística descritiva e a relação entre variáveis. Utilizaremos as poderosas bibliotecas NumPy, Pandas, Matplotlib e Seaborn para realizar cálculos e visualizações essenciais.
 
 Conteúdo
 1. Amplitude (Peak-to-Peak)
@@ -20,4 +20,5 @@ Conceitos Abordados:
 Covariância Positiva: Quando ambas as variáveis tendem a aumentar ou diminuir juntas.
 Covariância Negativa: Quando uma variável aumenta enquanto a outra diminui.
 Covariância Zero: Ausência de uma relação linear clara.
-Exemplo: Análise da covariância e correlação entre o consumo de um equipamento e sua temperatura, incluindo um gráfico de dispersão para visualização da tendência.# Correlacao_Covariancia-
+Exemplo: Análise da covariância e correlação entre o consumo de um equipamento e sua temperatura, incluindo um gráfico de dispersão para visualização da tendência.
+um equipamento e sua temperatura, incluindo um gráfico de dispersão para visualização da tendência.# Correlacao_Covariancia-
